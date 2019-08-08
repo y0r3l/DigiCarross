@@ -13,11 +13,11 @@ Le challengeur ne doit pas utiliser une vulnérabilité d’un langage de progra
 En effet, il devra analyser différentes ressources afin de trouver des informations pertinentes lui
 permettant d’obtenir des pistes pour atteindre ses objectifs.
 
-## Categories
+## Catégories
 
 * OSINT (Open Source INTelligence)
 
-## Matériel nécessaire pour le résoudre
+## Matériels nécessaires pour le résoudre
 
 * Accès à Internet
 * Un compte LinkedIn
