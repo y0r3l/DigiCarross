@@ -29,7 +29,7 @@ permettant d’obtenir des pistes pour atteindre ses objectifs.
 
 ## Mise en place du challenge
 
-1. Rednez-vous dans le dossier "site DigiCarross"
+1. Rendez-vous dans le dossier "site DigiCarross"
 2. Ouvrez le fichier "page.html" dans votre naviguateur préféré
 
 ## Contact
